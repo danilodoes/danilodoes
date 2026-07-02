@@ -1,14 +1,56 @@
-# 🧑‍💻 Danilo dos Santos
+# Olá, eu sou o Danilo!
 
-**`Desenvolvedor Full Stack`**
+Carioca da gema, apaixonado por tecnologia e movido pela curiosidade.
 
-Meu nome é Danilo, tenho 30 anos e carioca da gema!
-Sou formado como técnico em eletrônica e atualmente estou cursando Ciência da Computação na Universidade São Judas Tadeu no campus Jabaquara. 
-Extremamente apaixonado por tecnologia, decidi fazer essa transição de carreira para área de desenvolvimento, pois sempre foi meu sonho e agora estou conseguindo "tirar do papel" 😅.
+**Bacharel em Ciência da Computação pela Universidade São Judas Tadeu** e **Técnico em Eletrônica pela Fundação de Apoio à Escola Técnica - FAETEC**.
 
-Sou muito engajado com tudo o que me proponho a fazer, dando o máximo de mim, para fazer o melhor possível em todos os projetos que me envolvo. 
+Sempre fui fascinado por entender como as coisas funcionam, e foi justamente essa paixão que me motivou a realizar a transição para a área de desenvolvimento.
 
-Aqui você vai encontrar um pouco dos meus projetos acadêmicos e pessoais. Espero que goste!
+---
+
+## Sobre mim
+
+Gosto de estar na interseção entre **hardware**, **software** e **pessoas**.
+
+Ao longo da minha trajetória, desenvolvi uma visão que vai além da programação. Tenho facilidade para compreender sistemas, identificar problemas e conectar áreas técnicas e de negócio para construir soluções que realmente façam sentido.
+
+O tipo de pessoa que:
+- Aprendo rápido e adora explorar novas tecnologias;
+- Gosto de entender o "porquê" das coisas;
+- Curto compartilhar conhecimento e trabalhar em equipe;
+- Estou sempre buscando a melhor solução, e não apenas a mais fácil.
+
+Acredito que tecnologia é muito mais do que código: é resolver problemas e gerar impacto positivo.
+
+---
+
+## O que você vai encontrar por aqui
+
+Neste GitHub compartilho um pouco da minha jornada através de:
+
+- 🎓 Projetos acadêmicos
+- 💼 Projetos profissionais
+- 🚀 Projetos pessoais
+- 🛠️ Experimentos e estudos
+- 📚 Novas tecnologias que estou aprendendo
+
+Sempre tem alguma ideia nova saindo do papel. 😅
+
+---
+
+## Atualmente
+
+Estou focado em evoluir cada vez mais como desenvolvedor, buscando criar aplicações cada vez mais completas e aprender novas tecnologias no processo.
+
+Acredito que aprender nunca termina, e isso é justamente o que torna essa área tão incrível.
+
+---
+
+## ☕ Bora conversar?
+
+Se quiser trocar uma ideia sobre tecnologia, desenvolvimento, eletrônica ou apenas bater um papo, fique à vontade!
+
+Seja muito bem-vindo ao meu perfil! 😄
 
 Aaaah, se precisar de mais detalhes [acesse meu LinkedIn.](https://www.linkedin.com/in/danilodoes)
 
@@ -37,7 +79,7 @@ Aaaah, se precisar de mais detalhes [acesse meu LinkedIn.](https://www.linkedin.
 <img align="left" alt="Google Cloud Computer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
@@ -45,10 +87,10 @@ Aaaah, se precisar de mais detalhes [acesse meu LinkedIn.](https://www.linkedin.
 <br />
 
 ### 🧰 Ferramentas que vou estudar (meu roadmap pessoal rs)
-
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+
 
 <br />
 <br />
